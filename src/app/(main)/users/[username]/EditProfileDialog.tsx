@@ -1,4 +1,4 @@
-import avatarPlaceholder from "@/assets/avatar-placeholder.png";
+import avatarPlaceholder from "@/assets/avatar-placeholder.jpg";
 import CropImageDialog from "@/components/CropImageDialog";
 import LoadingButton from "@/components/LoadingButton";
 import {
